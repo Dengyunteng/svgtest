@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0mm" y="0mm" width="300mm" height="600mm" viewBox="0 0 300 600">
+<style type="text/css"><![CDATA[
+text { font:12px Dialog; }
+]]></style>
+<line x1="0" y1="0" x2="300" y2="0" style="fill:none;stroke:rgb(255,0,0);stroke-linecap:square" />
+<line x1="0" y1="0" x2="0" y2="600" style="fill:none;stroke:rgb(255,0,0);stroke-linecap:square" />
+<line x1="300" y1="0" x2="300" y2="600" style="fill:none;stroke:rgb(255,0,0);stroke-linecap:square" />
+<line x1="0" y1="600" x2="300" y2="600" style="fill:none;stroke:rgb(255,0,0);stroke-linecap:square" />
+<rect x="0" y="0" width="150" height="150" rx="30" ry="30" style="fill:none;stroke:rgb(255,0,0);stroke-linecap:square" />
+<ellipse cx="25" cy="25" rx="25" ry="25" style="fill:rgb(255,0,0);stroke:none" />
+<g transform="matrix(1 0 0 1 60 0) ">
+<ellipse cx="25" cy="25" rx="25" ry="25" style="fill:rgb(0,255,0);stroke:none" />
+</g>
+<g transform="matrix(1 0 0 1 120 0) ">
+<ellipse cx="25" cy="25" rx="25" ry="25" style="fill:rgb(0,0,255);stroke:none" />
+</g>
+</svg>
